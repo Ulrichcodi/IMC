@@ -8,7 +8,7 @@ export default function App() {
   function calcul() {
     let p = parseInt(poids)
     let T = parseInt(taille)
-    res = p / (T * T)
+    res = (p / (T * T))
   }
   function diag() {
     let k = parseInt(res)
