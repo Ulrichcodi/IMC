@@ -12,7 +12,7 @@ Récupérer le repo via la ligne de commande
 
 Se positionner dans le répertoire
 
-`cd calcul-IMC`
+`cd IMC`
 
 Récupérer les dépendances
 
