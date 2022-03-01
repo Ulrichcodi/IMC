@@ -2,8 +2,8 @@ import { useState } from "react"
 import { StyleSheet, Text, View, TextInput, Button } from "react-native"
 
 export default function App() {
-  const [taille, setTaille] = useState(150)
-  const [poids, setPoids] = useState(50)
+  const [taille, setTaille] = useState(0)
+  const [poids, setPoids] = useState(0)
 
   function calcul() {
     let p = parseInt(poids)
