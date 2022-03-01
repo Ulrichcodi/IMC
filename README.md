@@ -8,7 +8,7 @@ calcul de l'IMC
 
 Récupérer le repo via la ligne de commande
 
-`git clone `
+`git clone https://github.com/Ulrichcodi/IMC.git`
 
 Se positionner dans le répertoire
 
