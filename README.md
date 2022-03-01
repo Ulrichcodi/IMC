@@ -1,7 +1,7 @@
 # IMC
 
 # participants: ulrich Noumbissi, Frannck Steve
-#3ieme année Ecole IT
+3ieme année Ecole IT
 calcul de l'IMC
 
 ## Installation
